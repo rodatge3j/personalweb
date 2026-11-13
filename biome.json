@@ -18,3 +18,9 @@
     "enabled": true,
     "rules": { "recommended": true }
   },
+  "javascript": {
+    "formatter": {
+      "quoteStyle": "double"
+    }
+  }
+}
